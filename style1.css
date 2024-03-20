@@ -243,7 +243,7 @@ p{
         display: grid;
         grid-template-columns:1fr;
         gap: 4rem;
-        width: 700px;}
+        width: 600px;}
 }
 
 
@@ -270,12 +270,12 @@ p{
 }
 .project{
     height: 500px;
-    width: 800px; 
+    width: 600px; 
     margin-bottom: 40px;  
 }
 .project img{
     height: 300px;
-    width: 600px;
+    width: 500px;
 }
 .header-action-aria {
     justify-content: center;
@@ -284,7 +284,7 @@ p{
 @media only screen and (max-width: 1250px){
     .project{
         height: 500px;
-        width: 600px; }
+        width: 500px; }
     .project img{
         height: 300px;
         width: 400px;}
